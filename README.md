@@ -6,7 +6,7 @@ This software is under development.<br>
 SUSTAINA-OP2™ is Open Hardware Platform Humanoid Robot.<br>
 License: SUSTAINA-OP2™ © Masato Kubotera (2024) CC BY-NC-SA 4.0 DEED <br>
 
-* Organization: [https://github.com/SUSTAINA-OP](https://github.com/SUSTAINA-OP2)
+* Organization: [https://github.com/SUSTAINA-OP2](https://github.com/SUSTAINA-OP2)
 * Repository (Mechanical design data & License): [https://github.com/SUSTAINA-OP2/SUSTAINA-OP2](https://github.com/SUSTAINA-OP2/SUSTAINA-OP2)
 
 ## License
