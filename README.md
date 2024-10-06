@@ -14,4 +14,4 @@ This software was developed using the SUSTAINA-OP™ series. <br>
 https://github.com/SUSTAINA-OP2 <br>
 SUSTAINA-OP2™ © Masato Kubotera (2024) CC BY-NC-SA 4.0 DEED <br>
 
-Maintainer & developer of this repository is Yusuke Yamasaki (github: [Yusuke-Yamasaki-555](https://github.com/Yusuke-Yamasaki-555)).<br>
+Lead maintainer & lead developer of this repository is Yusuke Yamasaki (github: [Yusuke-Yamasaki-555](https://github.com/Yusuke-Yamasaki-555)).<br>
